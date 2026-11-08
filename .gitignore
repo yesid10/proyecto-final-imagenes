@@ -1,0 +1,15 @@
+# Carpeta de datos pesados (imágenes hiperespectrales)
+imaging-5/
+*.img
+*.hdr
+*.zip
+
+# Entorno virtual de Python (no subir paquetes instalados)
+.venv/
+venv/
+env/
+
+# Archivos temporales y caché
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
